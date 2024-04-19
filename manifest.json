@@ -5,11 +5,11 @@
     "display": "standalone",
     "theme_color": "pink",
     "background_color": "blue",
-    "description": "kfines",
+    "description": "umay",
     "icons": [
       {
         "src": "images/icon-192.png",
-        "sizes": "192x192",
+        "size": "192x192",
         "type": "image/png"
       },
       {
